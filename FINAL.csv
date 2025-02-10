@@ -1,0 +1,1001 @@
+username,report_count,follower_following_ratio,verification_status,comment_text,engagement_pattern,label
+user_1,4,1.25,Verified,Normal conversation text,0.65,1
+user_2,5,2.6,Not Verified,Normal conversation text,0.56,1
+user_3,6,3.32,Verified,Normal conversation text,0.12,1
+user_4,0,2.38,Not Verified,win prize,0.77,0
+user_5,6,0.17,Not Verified,Normal conversation text,0.1,0
+user_6,7,0.84,Verified,Normal conversation text,0.03,1
+user_7,0,3.42,Verified,Normal conversation text,0.22,1
+user_8,7,4.66,Verified,,0.13,0
+user_9,1,4.15,Verified,Normal conversation text,0.46,0
+user_10,0,1.94,Verified,Normal conversation text,0.91,1
+user_11,8,1.69,Verified,free money,0.51,0
+user_12,4,2.49,Not Verified,Normal conversation text,0.36,1
+user_13,2,2.08,Not Verified,Normal conversation text,0.35,1
+user_14,4,4.26,Not Verified,Normal conversation text,0.64,0
+user_15,10,0.5,Not Verified,free money win,0.48,0
+user_16,7,3.1,Verified,,0.02,1
+user_17,9,2.61,Not Verified,free prize giveaway,0.46,1
+user_18,0,1.97,Verified,Normal conversation text,0.67,0
+user_19,8,2.45,Verified,Normal conversation text,0.65,0
+user_20,8,3.44,Not Verified,Normal conversation text,0.26,0
+user_21,4,0.51,Verified,,0.09,0
+user_22,5,2.28,Not Verified,money giveaway free,0.69,1
+user_23,9,4.47,Verified,Normal conversation text,0.54,1
+user_24,0,4.43,Not Verified,Normal conversation text,0.03,1
+user_25,1,1.54,Not Verified,money click,0.32,1
+user_26,8,2.88,Not Verified,,0.26,0
+user_27,2,1.99,Verified,Normal conversation text,0.12,0
+user_28,0,1.04,Not Verified,Normal conversation text,0.16,0
+user_29,7,3.18,Not Verified,free prize urgent,0.66,0
+user_30,5,0.4,Not Verified,prize,0.13,0
+user_31,3,0.1,Not Verified,Normal conversation text,0.18,1
+user_32,6,1.46,Not Verified,Normal conversation text,0.24,1
+user_33,1,2.34,Verified,Normal conversation text,0.43,1
+user_34,9,1.77,Verified,Normal conversation text,0.82,0
+user_35,1,3.82,Verified,Normal conversation text,0.86,1
+user_36,5,0.11,Verified,urgent prize,0.22,1
+user_37,9,3.36,Verified,Normal conversation text,0.12,1
+user_38,5,0.25,Not Verified,Normal conversation text,0.39,1
+user_39,9,2.01,Verified,Normal conversation text,0.1,1
+user_40,4,4.2,Verified,Normal conversation text,0,0
+user_41,10,0.73,Not Verified,Normal conversation text,0.12,1
+user_42,2,0.98,Not Verified,Normal conversation text,0.17,0
+user_43,1,2.09,Not Verified,Normal conversation text,0.27,0
+user_44,7,3.94,Not Verified,Normal conversation text,0.43,0
+user_45,3,1.87,Not Verified,Normal conversation text,0.35,1
+user_46,3,1.89,Verified,,0.49,1
+user_47,9,2.29,Not Verified,Normal conversation text,0.99,0
+user_48,1,3.04,Not Verified,Normal conversation text,0.33,1
+user_49,0,1.56,Not Verified,,0.26,0
+user_50,7,3.07,Verified,Normal conversation text,0.7,1
+user_51,0,1.59,Verified,Normal conversation text,0.05,0
+user_52,9,0.8,Verified,Normal conversation text,0.89,1
+user_53,7,3.78,Verified,Normal conversation text,0.93,1
+user_54,6,2.58,Verified,Normal conversation text,0.8,1
+user_55,10,2.87,Not Verified,Normal conversation text,0.96,0
+user_56,8,2.64,Verified,Normal conversation text,0.02,0
+user_57,2,3.07,Verified,Normal conversation text,0.31,0
+user_58,10,1.66,Verified,Normal conversation text,0.33,1
+user_59,7,4.15,Verified,Normal conversation text,0.63,0
+user_60,2,2.64,Verified,Normal conversation text,1,0
+user_61,2,4.3,Not Verified,Normal conversation text,0.07,1
+user_62,8,4.39,Verified,Normal conversation text,0.65,1
+user_63,1,1.87,Verified,money,0.46,1
+user_64,8,2.33,Verified,giveaway prize,0.5,0
+user_65,2,2.22,Not Verified,Normal conversation text,0,1
+user_66,2,4.05,Verified,Normal conversation text,0.12,1
+user_67,10,0.24,Not Verified,Normal conversation text,0.01,1
+user_68,3,2,Verified,Normal conversation text,0.57,1
+user_69,8,0.64,Not Verified,,0.92,0
+user_70,4,0.88,Not Verified,Normal conversation text,0.73,1
+user_71,7,4.59,Not Verified,Normal conversation text,0.66,0
+user_72,6,2.4,Verified,Normal conversation text,0.45,0
+user_73,5,4.63,Verified,Normal conversation text,0.31,0
+user_74,6,2.84,Not Verified,Normal conversation text,0.01,0
+user_75,6,3.33,Verified,Normal conversation text,0.23,0
+user_76,4,2.84,Not Verified,Normal conversation text,0.96,1
+user_77,5,3.02,Verified,Normal conversation text,0.1,0
+user_78,6,3.35,Verified,Normal conversation text,0.67,0
+user_79,3,0.56,Not Verified,Normal conversation text,0.38,1
+user_80,8,0.73,Not Verified,click free,0.23,0
+user_81,6,0.78,Not Verified,Normal conversation text,0.49,1
+user_82,6,2.15,Verified,giveaway,0.08,1
+user_83,8,2.22,Not Verified,free giveaway,0.64,0
+user_84,3,3.35,Not Verified,Normal conversation text,0.87,1
+user_85,10,3.31,Not Verified,,0.02,1
+user_86,10,3,Not Verified,Normal conversation text,0.92,0
+user_87,1,3.78,Not Verified,Normal conversation text,0.74,1
+user_88,7,2.23,Not Verified,Normal conversation text,0.1,1
+user_89,2,2.17,Not Verified,urgent free,0.89,0
+user_90,9,2.52,Not Verified,Normal conversation text,0.04,0
+user_91,0,0.12,Not Verified,Normal conversation text,0.72,1
+user_92,1,0.36,Not Verified,Normal conversation text,0.77,0
+user_93,3,3.42,Not Verified,Normal conversation text,0.51,1
+user_94,10,3.73,Verified,money,0.11,0
+user_95,2,1.19,Not Verified,Normal conversation text,0.48,0
+user_96,4,4.32,Verified,Normal conversation text,0.29,0
+user_97,4,0.36,Not Verified,money,0.06,1
+user_98,1,1.97,Not Verified,Normal conversation text,0,1
+user_99,2,1.63,Not Verified,Normal conversation text,0.28,1
+user_100,4,3.27,Verified,Normal conversation text,0.1,0
+user_101,2,2.64,Verified,Normal conversation text,0.75,0
+user_102,8,3.39,Verified,Normal conversation text,0.46,0
+user_103,9,2.11,Verified,urgent,0.71,1
+user_104,1,3.36,Verified,Normal conversation text,0.17,1
+user_105,0,0.55,Verified,Normal conversation text,0.78,1
+user_106,2,2.94,Not Verified,money prize free,0.04,0
+user_107,1,2.18,Not Verified,money click urgent,0.7,0
+user_108,5,1.1,Not Verified,Normal conversation text,0.45,1
+user_109,8,4.92,Not Verified,click free,0.28,1
+user_110,2,2.78,Verified,Normal conversation text,0.35,1
+user_111,5,1.85,Verified,Normal conversation text,0.53,1
+user_112,0,3.55,Verified,Normal conversation text,0.52,1
+user_113,8,3.26,Not Verified,free,0.61,1
+user_114,8,3.24,Not Verified,Normal conversation text,0.27,1
+user_115,1,1.26,Not Verified,win click,0.04,0
+user_116,3,3.54,Verified,,0.54,1
+user_117,2,3.14,Verified,,0.79,1
+user_118,8,4.44,Not Verified,Normal conversation text,0.75,1
+user_119,6,1.24,Not Verified,Normal conversation text,0.07,1
+user_120,9,4.52,Not Verified,Normal conversation text,0.79,0
+user_121,8,1.64,Not Verified,win prize,0.39,0
+user_122,0,2.96,Verified,Normal conversation text,0.83,0
+user_123,1,0.3,Not Verified,Normal conversation text,0.24,0
+user_124,6,1.52,Verified,Normal conversation text,0.78,0
+user_125,8,0.14,Not Verified,Normal conversation text,0.46,1
+user_126,4,1.74,Verified,giveaway,0.86,1
+user_127,5,4.7,Verified,Normal conversation text,0.53,1
+user_128,3,1.67,Verified,money urgent win,0.82,0
+user_129,1,0.9,Verified,Normal conversation text,0.42,0
+user_130,10,4.66,Not Verified,,0.63,0
+user_131,10,3.96,Verified,click,0.87,1
+user_132,6,1.98,Not Verified,urgent giveaway,0.76,0
+user_133,4,0.33,Verified,Normal conversation text,0.53,1
+user_134,0,0.49,Verified,Normal conversation text,0.95,1
+user_135,1,4.8,Verified,Normal conversation text,0.21,0
+user_136,5,1.84,Verified,money urgent,0.95,1
+user_137,1,0.49,Not Verified,Normal conversation text,0.96,1
+user_138,2,2.54,Not Verified,prize urgent giveaway,0.15,0
+user_139,4,2.57,Verified,,0.61,0
+user_140,0,3.05,Verified,Normal conversation text,0.86,0
+user_141,2,3.59,Verified,Normal conversation text,0.54,0
+user_142,5,3.74,Not Verified,Normal conversation text,0.37,0
+user_143,3,4.73,Verified,Normal conversation text,0.87,0
+user_144,7,1.55,Verified,Normal conversation text,0.44,1
+user_145,6,1.66,Not Verified,click,0.96,0
+user_146,5,3.34,Verified,Normal conversation text,0.59,1
+user_147,0,3.19,Not Verified,Normal conversation text,0.75,0
+user_148,4,0.23,Not Verified,win,0.69,1
+user_149,8,2.55,Verified,Normal conversation text,0.79,0
+user_150,0,0.57,Not Verified,Normal conversation text,0.83,1
+user_151,3,1.83,Verified,Normal conversation text,0.64,0
+user_152,5,0.17,Verified,Normal conversation text,0.52,0
+user_153,3,4.91,Not Verified,Normal conversation text,0.18,0
+user_154,7,3.43,Not Verified,money prize,0.15,0
+user_155,8,1.31,Not Verified,Normal conversation text,0.9,0
+user_156,8,4.28,Not Verified,Normal conversation text,0.63,0
+user_157,7,1.12,Not Verified,Normal conversation text,0.77,1
+user_158,8,4.38,Not Verified,Normal conversation text,0.16,1
+user_159,5,2.11,Verified,urgent,0.81,0
+user_160,10,0.19,Verified,win,0.14,0
+user_161,8,2.96,Verified,Normal conversation text,0.07,1
+user_162,4,3.29,Verified,Normal conversation text,0.51,1
+user_163,10,4.48,Verified,Normal conversation text,0.75,0
+user_164,2,2.86,Verified,Normal conversation text,0.87,1
+user_165,6,4.41,Verified,Normal conversation text,0.77,0
+user_166,4,4.9,Not Verified,giveaway,0.63,1
+user_167,9,2.64,Not Verified,Normal conversation text,0.62,0
+user_168,1,2.87,Verified,,0.27,1
+user_169,10,1.28,Verified,Normal conversation text,0.25,0
+user_170,6,0.18,Verified,click urgent,0.43,0
+user_171,8,2.14,Not Verified,money free prize,0.43,0
+user_172,4,4.29,Verified,Normal conversation text,0.21,1
+user_173,6,0.16,Verified,Normal conversation text,0.53,1
+user_174,0,0.44,Not Verified,Normal conversation text,0.82,1
+user_175,8,2.29,Not Verified,Normal conversation text,0.08,1
+user_176,0,0.49,Verified,Normal conversation text,0.5,1
+user_177,4,1.46,Verified,giveaway win,0.84,0
+user_178,0,0.16,Verified,Normal conversation text,0.3,1
+user_179,4,3.68,Not Verified,Normal conversation text,0.52,0
+user_180,10,2.19,Verified,Normal conversation text,0.85,1
+user_181,7,4.11,Not Verified,Normal conversation text,0.46,1
+user_182,2,3.75,Verified,win,0.46,1
+user_183,10,1.48,Verified,Normal conversation text,0.82,1
+user_184,7,3.64,Verified,Normal conversation text,0.59,0
+user_185,1,3.36,Verified,Normal conversation text,0.33,0
+user_186,6,1.49,Not Verified,Normal conversation text,0.29,0
+user_187,3,2.08,Verified,Normal conversation text,0.22,0
+user_188,7,2.88,Not Verified,Normal conversation text,0.65,1
+user_189,3,1.23,Verified,,0.82,0
+user_190,5,1.02,Not Verified,Normal conversation text,0.22,0
+user_191,1,3.87,Verified,Normal conversation text,0.5,1
+user_192,9,1.21,Not Verified,giveaway,0.58,0
+user_193,6,4.06,Verified,Normal conversation text,0.24,1
+user_194,4,1.18,Verified,Normal conversation text,0.18,1
+user_195,7,1.75,Verified,Normal conversation text,0.55,0
+user_196,4,0.58,Verified,Normal conversation text,0.48,0
+user_197,5,3.24,Verified,Normal conversation text,0.47,1
+user_198,4,4.16,Verified,Normal conversation text,0.71,0
+user_199,4,1.31,Verified,Normal conversation text,0.69,1
+user_200,5,1.86,Not Verified,Normal conversation text,0.78,1
+user_201,7,4.44,Not Verified,,0.89,1
+user_202,6,3.19,Verified,Normal conversation text,0.47,0
+user_203,3,4.13,Verified,,0.9,1
+user_204,0,1.88,Not Verified,Normal conversation text,0.74,0
+user_205,3,0.32,Not Verified,free prize,0.41,0
+user_206,4,4.08,Not Verified,Normal conversation text,0.47,0
+user_207,1,4.86,Not Verified,Normal conversation text,0.84,1
+user_208,0,4.7,Not Verified,Normal conversation text,0.88,1
+user_209,4,4.42,Verified,Normal conversation text,0.32,1
+user_210,5,0.76,Verified,Normal conversation text,0.73,1
+user_211,6,2.11,Verified,,0.89,1
+user_212,10,3.83,Not Verified,Normal conversation text,0.15,0
+user_213,7,2,Not Verified,Normal conversation text,0.57,0
+user_214,7,4.36,Verified,Normal conversation text,0.94,0
+user_215,2,4.27,Not Verified,Normal conversation text,0.79,1
+user_216,7,0.14,Not Verified,win click giveaway,0.93,1
+user_217,2,1.38,Not Verified,free,0.19,0
+user_218,4,0.78,Not Verified,Normal conversation text,0.09,1
+user_219,4,3,Not Verified,Normal conversation text,0.38,0
+user_220,10,2.23,Verified,free,0.69,0
+user_221,8,4.4,Verified,Normal conversation text,0.56,0
+user_222,9,0.86,Not Verified,urgent,0.51,0
+user_223,6,3.61,Verified,Normal conversation text,0.42,0
+user_224,7,2.65,Verified,Normal conversation text,0.07,1
+user_225,1,3.06,Not Verified,Normal conversation text,0.59,1
+user_226,3,4.2,Verified,Normal conversation text,0.02,1
+user_227,8,2.02,Verified,Normal conversation text,0.64,1
+user_228,1,2.94,Verified,win urgent money,0.57,0
+user_229,8,3.28,Verified,prize giveaway,0.72,0
+user_230,1,4.24,Not Verified,Normal conversation text,0.31,1
+user_231,9,2.01,Not Verified,giveaway prize,0.36,1
+user_232,6,2.86,Verified,Normal conversation text,0.49,0
+user_233,9,2.38,Not Verified,Normal conversation text,0.87,1
+user_234,9,4.28,Not Verified,,0.33,1
+user_235,10,1.64,Not Verified,Normal conversation text,0.81,1
+user_236,6,2.76,Not Verified,win urgent,0.59,1
+user_237,7,2.56,Verified,Normal conversation text,0.63,0
+user_238,2,3.05,Verified,Normal conversation text,0.78,1
+user_239,2,2.76,Verified,Normal conversation text,0.95,0
+user_240,1,3.64,Not Verified,Normal conversation text,0.94,1
+user_241,10,3.89,Verified,prize,0.97,1
+user_242,2,3.69,Not Verified,Normal conversation text,0.28,0
+user_243,6,2.16,Not Verified,Normal conversation text,0.41,0
+user_244,9,0.65,Not Verified,prize money,0.25,0
+user_245,2,3.26,Verified,Normal conversation text,0.79,1
+user_246,2,4.13,Not Verified,Normal conversation text,0.22,0
+user_247,8,3.8,Verified,Normal conversation text,0.01,0
+user_248,10,3.5,Verified,Normal conversation text,0.53,0
+user_249,7,4.23,Verified,Normal conversation text,0.24,1
+user_250,7,1.92,Verified,prize click giveaway,0.89,1
+user_251,10,4.74,Not Verified,Normal conversation text,0.71,0
+user_252,10,3.37,Not Verified,Normal conversation text,0.74,1
+user_253,5,0.72,Not Verified,Normal conversation text,0.64,1
+user_254,10,2.49,Verified,Normal conversation text,0.54,1
+user_255,0,0.79,Verified,Normal conversation text,0.7,0
+user_256,0,1.43,Not Verified,Normal conversation text,0.52,0
+user_257,4,1.09,Verified,Normal conversation text,0.11,1
+user_258,8,3.24,Verified,Normal conversation text,0.66,0
+user_259,5,0.49,Not Verified,Normal conversation text,0.9,1
+user_260,10,4.4,Verified,prize urgent free,0.33,0
+user_261,10,2.23,Not Verified,Normal conversation text,0.8,0
+user_262,1,2.58,Verified,Normal conversation text,0.27,1
+user_263,5,4.89,Not Verified,Normal conversation text,0.27,0
+user_264,2,2.81,Verified,click,0.17,0
+user_265,9,1.95,Verified,,0.03,1
+user_266,3,1.05,Not Verified,Normal conversation text,0.75,0
+user_267,6,0.46,Verified,,0.38,0
+user_268,1,3.89,Not Verified,Normal conversation text,0.12,0
+user_269,3,2.82,Not Verified,Normal conversation text,0.11,1
+user_270,9,4,Verified,Normal conversation text,0.03,0
+user_271,2,4.89,Verified,Normal conversation text,0.14,1
+user_272,6,4.16,Verified,Normal conversation text,0.4,0
+user_273,5,3.45,Not Verified,Normal conversation text,0.17,1
+user_274,0,1.79,Verified,win,0.23,0
+user_275,9,4.78,Verified,giveaway prize win,0.73,0
+user_276,9,0.54,Not Verified,win,0.06,1
+user_277,4,4.09,Not Verified,Normal conversation text,0.09,0
+user_278,3,2.59,Verified,win prize,0.41,0
+user_279,6,2.53,Not Verified,win prize,0.3,1
+user_280,6,4.44,Verified,Normal conversation text,0.04,0
+user_281,6,2.66,Not Verified,money,0.38,0
+user_282,9,1.8,Verified,,0.05,1
+user_283,9,3.83,Verified,,0.9,0
+user_284,2,1.22,Verified,win free,0.41,1
+user_285,10,0.1,Not Verified,Normal conversation text,0.88,1
+user_286,8,1.31,Verified,Normal conversation text,0.09,0
+user_287,8,3.93,Verified,Normal conversation text,0.39,0
+user_288,10,2.17,Not Verified,urgent giveaway,0.81,0
+user_289,10,1.31,Verified,Normal conversation text,0.88,1
+user_290,8,1.09,Not Verified,money click,0.29,0
+user_291,7,2.35,Verified,,0.08,0
+user_292,7,0.67,Not Verified,prize free urgent,0.61,0
+user_293,9,3.68,Not Verified,Normal conversation text,0.5,0
+user_294,7,4.09,Verified,Normal conversation text,0.62,0
+user_295,6,0.57,Verified,Normal conversation text,0.02,0
+user_296,10,0.3,Not Verified,Normal conversation text,0.31,0
+user_297,1,0.11,Not Verified,prize,0.54,1
+user_298,5,3.2,Verified,,0.3,1
+user_299,6,1.66,Verified,urgent click win,0.61,1
+user_300,3,1.44,Verified,urgent,0.3,1
+user_301,4,2.72,Verified,Normal conversation text,0.83,1
+user_302,2,4.51,Not Verified,Normal conversation text,0.77,0
+user_303,7,0.14,Not Verified,Normal conversation text,0.07,0
+user_304,7,2.15,Verified,Normal conversation text,0.41,1
+user_305,8,1.63,Not Verified,Normal conversation text,0.73,1
+user_306,2,1.6,Not Verified,Normal conversation text,0.66,1
+user_307,0,3.77,Not Verified,Normal conversation text,0.75,1
+user_308,3,1.62,Not Verified,Normal conversation text,0.43,0
+user_309,4,4.78,Not Verified,Normal conversation text,0.64,0
+user_310,10,0.39,Not Verified,,0.55,1
+user_311,9,0.74,Not Verified,Normal conversation text,0.51,0
+user_312,3,4.5,Not Verified,Normal conversation text,0.93,0
+user_313,2,0.63,Verified,Normal conversation text,0.83,1
+user_314,3,0.8,Not Verified,Normal conversation text,0.36,1
+user_315,5,2.66,Verified,Normal conversation text,0.85,0
+user_316,4,1.44,Verified,Normal conversation text,0.14,1
+user_317,3,0.21,Verified,Normal conversation text,0.7,1
+user_318,1,3.85,Not Verified,Normal conversation text,0.98,1
+user_319,2,4.02,Verified,,0.94,0
+user_320,0,2.8,Verified,urgent,0.7,0
+user_321,8,3.51,Not Verified,Normal conversation text,0.42,1
+user_322,7,4.81,Not Verified,Normal conversation text,0.41,1
+user_323,1,1.18,Verified,Normal conversation text,0.78,0
+user_324,1,0.36,Not Verified,urgent free click,0.73,1
+user_325,7,1.92,Not Verified,Normal conversation text,0.07,1
+user_326,5,1.1,Not Verified,Normal conversation text,0.93,1
+user_327,4,5,Verified,,0.02,0
+user_328,9,0.47,Not Verified,Normal conversation text,0.2,1
+user_329,0,0.91,Verified,Normal conversation text,0.03,1
+user_330,5,1.42,Verified,Normal conversation text,0.36,0
+user_331,7,0.92,Verified,win giveaway,0.15,1
+user_332,8,4.21,Verified,Normal conversation text,0.37,1
+user_333,10,3.28,Verified,Normal conversation text,0.05,1
+user_334,3,0.26,Verified,click,0.05,0
+user_335,10,2.27,Not Verified,,0.04,0
+user_336,3,4.29,Not Verified,Normal conversation text,0.59,1
+user_337,3,1.04,Not Verified,Normal conversation text,0.73,0
+user_338,6,2.39,Not Verified,click prize money,0.39,1
+user_339,4,1.07,Verified,Normal conversation text,0.66,1
+user_340,7,1.18,Verified,,0.71,1
+user_341,3,4.12,Verified,,0.2,1
+user_342,7,3.94,Not Verified,Normal conversation text,0.39,0
+user_343,4,4.05,Not Verified,Normal conversation text,0.65,1
+user_344,0,3.11,Not Verified,win,0.59,0
+user_345,3,0.76,Not Verified,,0.69,1
+user_346,2,1.55,Verified,win,0.14,1
+user_347,1,4.84,Verified,Normal conversation text,0,0
+user_348,6,4.85,Not Verified,Normal conversation text,0.35,1
+user_349,9,2.7,Not Verified,Normal conversation text,0.53,0
+user_350,0,1.91,Verified,urgent,0.56,0
+user_351,3,2.89,Not Verified,urgent prize giveaway,0.99,1
+user_352,9,0.39,Not Verified,Normal conversation text,0.61,0
+user_353,5,4.16,Verified,win money,0.16,1
+user_354,10,2.98,Not Verified,Normal conversation text,0.21,0
+user_355,10,4.79,Not Verified,Normal conversation text,0.6,1
+user_356,6,2.77,Not Verified,Normal conversation text,0.99,1
+user_357,1,2.5,Verified,prize click,0.78,0
+user_358,10,0.71,Verified,,0.82,0
+user_359,1,4.9,Verified,Normal conversation text,0.83,1
+user_360,6,0.87,Not Verified,Normal conversation text,0.87,0
+user_361,8,4.1,Not Verified,Normal conversation text,0.2,0
+user_362,6,4.53,Verified,Normal conversation text,0.21,1
+user_363,2,2.6,Verified,free prize,0.77,1
+user_364,4,2.38,Verified,,0.93,1
+user_365,1,4.01,Verified,Normal conversation text,0.53,0
+user_366,2,0.69,Not Verified,Normal conversation text,0.06,0
+user_367,1,2.67,Verified,Normal conversation text,0.72,1
+user_368,7,4.43,Verified,Normal conversation text,0.71,1
+user_369,7,4.56,Verified,Normal conversation text,0.78,1
+user_370,5,1.07,Verified,Normal conversation text,0.17,0
+user_371,6,2.56,Verified,urgent click,0.01,0
+user_372,10,4.36,Not Verified,Normal conversation text,0.11,0
+user_373,3,0.79,Verified,Normal conversation text,0.41,0
+user_374,0,0.17,Verified,urgent giveaway,0.8,1
+user_375,7,3.75,Verified,Normal conversation text,0.66,0
+user_376,9,4.05,Verified,Normal conversation text,0.6,1
+user_377,6,1.9,Verified,,0.18,0
+user_378,7,2.1,Not Verified,Normal conversation text,0.61,1
+user_379,6,4.04,Verified,click money,0.14,1
+user_380,4,3.85,Verified,giveaway money free,0.58,1
+user_381,7,2.87,Not Verified,urgent,0.8,1
+user_382,0,3.16,Verified,Normal conversation text,0.61,1
+user_383,0,4.3,Verified,Normal conversation text,0.76,1
+user_384,4,1.92,Verified,Normal conversation text,0.93,0
+user_385,6,3.02,Not Verified,giveaway win prize,0.07,0
+user_386,3,3.82,Verified,Normal conversation text,0.9,0
+user_387,0,0.97,Not Verified,Normal conversation text,0.29,0
+user_388,7,3.56,Not Verified,,0.08,0
+user_389,10,4.7,Verified,win,0.23,0
+user_390,8,2.35,Not Verified,Normal conversation text,0.8,1
+user_391,6,1,Verified,free,0.35,0
+user_392,7,1.28,Not Verified,Normal conversation text,0.62,0
+user_393,5,3.44,Verified,Normal conversation text,0.15,1
+user_394,6,4.54,Verified,urgent,0.05,1
+user_395,8,4.79,Not Verified,,0.33,1
+user_396,6,3.94,Not Verified,,0.69,0
+user_397,2,4.58,Not Verified,Normal conversation text,0.94,0
+user_398,2,0.9,Not Verified,Normal conversation text,0.68,1
+user_399,4,0.56,Not Verified,win,0.81,0
+user_400,9,2.57,Verified,money click,0.89,1
+user_401,7,0.57,Not Verified,Normal conversation text,0.3,1
+user_402,2,3.52,Not Verified,,0.03,0
+user_403,7,2.15,Not Verified,,0.31,0
+user_404,6,4.21,Not Verified,win urgent,0.17,1
+user_405,0,0.34,Verified,Normal conversation text,0.05,1
+user_406,1,1.83,Verified,Normal conversation text,0.13,1
+user_407,3,1.24,Not Verified,prize giveaway,0.35,0
+user_408,1,4.7,Verified,Normal conversation text,0.71,0
+user_409,10,4.02,Not Verified,Normal conversation text,0.22,0
+user_410,3,1.54,Verified,Normal conversation text,0.16,1
+user_411,6,0.8,Not Verified,giveaway click,0.75,0
+user_412,1,3.26,Verified,Normal conversation text,0.59,0
+user_413,6,1.82,Not Verified,Normal conversation text,0.43,0
+user_414,2,4.1,Not Verified,Normal conversation text,0.11,0
+user_415,1,3.37,Verified,,0.49,1
+user_416,7,0.43,Not Verified,,0.82,0
+user_417,8,3.55,Verified,,0.9,0
+user_418,1,2.78,Not Verified,Normal conversation text,0.92,1
+user_419,5,3.78,Not Verified,Normal conversation text,0.83,1
+user_420,8,2.14,Verified,Normal conversation text,0.65,0
+user_421,6,1.55,Not Verified,Normal conversation text,0.3,1
+user_422,2,0.3,Not Verified,Normal conversation text,0.67,1
+user_423,3,0.3,Verified,Normal conversation text,0.17,1
+user_424,9,0.16,Not Verified,Normal conversation text,0.03,1
+user_425,7,2.32,Verified,Normal conversation text,0.74,0
+user_426,9,4.73,Verified,Normal conversation text,0.65,0
+user_427,3,4.42,Not Verified,Normal conversation text,0.59,1
+user_428,10,3.05,Not Verified,Normal conversation text,0.88,1
+user_429,10,4.55,Not Verified,Normal conversation text,0.16,0
+user_430,3,3.75,Not Verified,Normal conversation text,0.88,1
+user_431,2,4.49,Verified,urgent win,0.27,1
+user_432,10,4.13,Not Verified,urgent,0.55,1
+user_433,8,3.15,Verified,Normal conversation text,0.79,0
+user_434,7,1.74,Verified,,0.37,0
+user_435,8,2.03,Verified,,0.65,1
+user_436,10,0.74,Not Verified,prize giveaway,0.1,0
+user_437,9,2.21,Verified,Normal conversation text,0.25,0
+user_438,2,2.59,Not Verified,Normal conversation text,0.45,0
+user_439,0,3.06,Not Verified,Normal conversation text,0.24,1
+user_440,6,4.48,Not Verified,Normal conversation text,0.09,0
+user_441,8,1.35,Verified,Normal conversation text,0.35,0
+user_442,0,4.06,Verified,Normal conversation text,0.52,0
+user_443,6,4.48,Not Verified,Normal conversation text,0.12,1
+user_444,1,3.4,Not Verified,Normal conversation text,0.4,0
+user_445,2,3.33,Not Verified,Normal conversation text,0.06,1
+user_446,3,4.33,Not Verified,Normal conversation text,0.04,0
+user_447,5,2.31,Verified,Normal conversation text,0.22,1
+user_448,8,4.21,Verified,Normal conversation text,0.95,1
+user_449,6,3.42,Verified,Normal conversation text,0.54,1
+user_450,5,3.94,Verified,Normal conversation text,0.33,1
+user_451,9,1.34,Not Verified,prize money,0.1,1
+user_452,5,3.34,Verified,Normal conversation text,0.49,1
+user_453,1,0.33,Verified,urgent win,0.18,0
+user_454,7,4.48,Not Verified,Normal conversation text,0.34,1
+user_455,3,1.3,Not Verified,Normal conversation text,0.13,0
+user_456,1,1.36,Verified,Normal conversation text,0.55,0
+user_457,10,1.62,Not Verified,Normal conversation text,0.5,0
+user_458,5,3.87,Verified,Normal conversation text,0,0
+user_459,1,4.48,Not Verified,Normal conversation text,0.86,1
+user_460,10,3.32,Not Verified,,0.78,1
+user_461,6,1.49,Verified,Normal conversation text,0.95,1
+user_462,7,4.2,Not Verified,Normal conversation text,0.75,1
+user_463,2,2.2,Not Verified,Normal conversation text,0.77,0
+user_464,2,2.03,Not Verified,click urgent giveaway,0.16,1
+user_465,8,4.86,Not Verified,Normal conversation text,0.65,1
+user_466,10,0.8,Verified,Normal conversation text,0.56,1
+user_467,5,2.09,Not Verified,Normal conversation text,0.41,0
+user_468,7,3.57,Not Verified,Normal conversation text,0.37,0
+user_469,5,4.28,Not Verified,Normal conversation text,0.72,0
+user_470,1,2.39,Not Verified,giveaway win,0.42,1
+user_471,10,0.97,Not Verified,Normal conversation text,0.18,0
+user_472,9,4.29,Not Verified,Normal conversation text,0.97,1
+user_473,10,0.54,Not Verified,,0.22,1
+user_474,6,1.46,Verified,Normal conversation text,0.76,0
+user_475,7,2.5,Verified,Normal conversation text,0.85,0
+user_476,2,0.86,Verified,urgent win,0.37,0
+user_477,6,1.99,Verified,Normal conversation text,0.05,0
+user_478,4,1.34,Verified,Normal conversation text,0.28,0
+user_479,4,1.86,Verified,Normal conversation text,0.53,1
+user_480,8,0.38,Verified,Normal conversation text,0.43,1
+user_481,4,3.93,Not Verified,Normal conversation text,0.01,0
+user_482,1,3.57,Verified,giveaway,0.89,0
+user_483,6,0.55,Not Verified,Normal conversation text,0.82,1
+user_484,5,1.12,Not Verified,Normal conversation text,0.28,1
+user_485,10,0.72,Verified,Normal conversation text,0.86,1
+user_486,6,1.12,Verified,prize free,0.43,1
+user_487,3,3.68,Verified,Normal conversation text,0.76,1
+user_488,7,4.66,Not Verified,Normal conversation text,0.44,1
+user_489,8,4.65,Verified,Normal conversation text,0.86,1
+user_490,5,3.57,Verified,Normal conversation text,0.56,0
+user_491,9,3.13,Not Verified,Normal conversation text,0.14,0
+user_492,3,2.02,Not Verified,Normal conversation text,0.61,1
+user_493,10,0.81,Verified,prize free,0.89,1
+user_494,7,2.98,Verified,Normal conversation text,0.86,0
+user_495,4,3.84,Not Verified,win,0.79,0
+user_496,4,3.47,Verified,free,0.25,1
+user_497,5,0.57,Verified,money,0.16,0
+user_498,2,4.87,Not Verified,,0.31,1
+user_499,2,4.22,Not Verified,Normal conversation text,0.26,1
+user_500,10,0.17,Not Verified,Normal conversation text,0.51,0
+user_501,8,0.75,Verified,Normal conversation text,0.81,1
+user_502,3,1.92,Not Verified,Normal conversation text,0.12,0
+user_503,1,1.44,Verified,click,0.46,0
+user_504,0,2.49,Verified,Normal conversation text,0.03,0
+user_505,2,4.48,Verified,Normal conversation text,1,1
+user_506,9,3.1,Not Verified,Normal conversation text,0.67,1
+user_507,5,2.4,Verified,Normal conversation text,0.76,0
+user_508,0,2.15,Verified,Normal conversation text,0.53,1
+user_509,5,0.64,Verified,Normal conversation text,0.12,0
+user_510,1,3.03,Not Verified,Normal conversation text,0.27,1
+user_511,6,1.88,Not Verified,Normal conversation text,0.03,0
+user_512,2,1.25,Verified,Normal conversation text,0.97,0
+user_513,9,0.53,Not Verified,money click,0.33,1
+user_514,8,2.91,Verified,,0.66,0
+user_515,2,2.33,Not Verified,giveaway,0.68,0
+user_516,2,2.62,Verified,money prize,0.19,0
+user_517,0,2.96,Not Verified,Normal conversation text,0.96,1
+user_518,1,1.41,Not Verified,free win prize,0.5,1
+user_519,4,3.92,Verified,prize win click,0.13,0
+user_520,10,4.12,Verified,Normal conversation text,0.48,1
+user_521,0,3.36,Not Verified,Normal conversation text,0.49,0
+user_522,1,1.71,Not Verified,click free money,0.27,1
+user_523,1,1.75,Not Verified,prize,0.72,1
+user_524,10,2.39,Not Verified,Normal conversation text,0.79,0
+user_525,8,4.77,Verified,Normal conversation text,0.24,1
+user_526,2,3.09,Not Verified,Normal conversation text,0.7,1
+user_527,10,2.57,Verified,Normal conversation text,0.56,0
+user_528,7,4.14,Verified,free,0.71,1
+user_529,7,0.68,Not Verified,Normal conversation text,0.09,0
+user_530,8,0.32,Not Verified,Normal conversation text,0.42,1
+user_531,1,0.9,Verified,Normal conversation text,0.71,0
+user_532,4,1.62,Not Verified,Normal conversation text,0.2,0
+user_533,2,4.22,Not Verified,Normal conversation text,0.33,1
+user_534,9,3.08,Verified,,0.79,1
+user_535,0,1.98,Verified,Normal conversation text,0.11,0
+user_536,2,4.61,Verified,Normal conversation text,0.92,1
+user_537,0,2.32,Not Verified,Normal conversation text,0.66,1
+user_538,4,2.52,Verified,Normal conversation text,0.7,0
+user_539,8,1.3,Verified,Normal conversation text,0.12,0
+user_540,7,4.89,Not Verified,money free,1,1
+user_541,1,0.83,Not Verified,win click prize,0.23,0
+user_542,4,1.76,Not Verified,Normal conversation text,0.56,0
+user_543,7,0.35,Verified,Normal conversation text,0.2,1
+user_544,8,0.73,Not Verified,Normal conversation text,0.45,0
+user_545,8,2.62,Not Verified,Normal conversation text,0.77,0
+user_546,0,0.12,Not Verified,Normal conversation text,0.7,0
+user_547,6,0.32,Verified,prize click urgent,0.66,1
+user_548,2,2.92,Not Verified,Normal conversation text,0.07,0
+user_549,4,0.75,Verified,,0.06,1
+user_550,3,4.06,Verified,Normal conversation text,0.54,1
+user_551,5,2.47,Verified,Normal conversation text,0.98,1
+user_552,2,4.89,Verified,Normal conversation text,0.15,0
+user_553,6,2.88,Verified,prize giveaway urgent,0.36,0
+user_554,3,2.32,Not Verified,Normal conversation text,0.48,1
+user_555,0,4.23,Not Verified,Normal conversation text,0.15,1
+user_556,3,0.32,Verified,giveaway free,0.06,1
+user_557,8,0.56,Not Verified,Normal conversation text,0.58,1
+user_558,0,4.28,Not Verified,Normal conversation text,0.89,0
+user_559,6,1.06,Verified,Normal conversation text,0.44,0
+user_560,1,4.03,Verified,Normal conversation text,0.98,1
+user_561,7,3.63,Verified,Normal conversation text,0.99,1
+user_562,5,1.42,Verified,urgent,0.04,0
+user_563,8,2.2,Verified,Normal conversation text,0.98,1
+user_564,4,1.39,Not Verified,Normal conversation text,0.66,0
+user_565,6,2.35,Not Verified,Normal conversation text,0.29,1
+user_566,7,4.53,Not Verified,Normal conversation text,0.57,1
+user_567,3,1.2,Verified,Normal conversation text,0.84,0
+user_568,6,2.68,Not Verified,Normal conversation text,0.13,1
+user_569,9,3.35,Not Verified,Normal conversation text,0.26,0
+user_570,1,3.32,Verified,Normal conversation text,0.17,1
+user_571,10,3.73,Verified,Normal conversation text,0.47,0
+user_572,0,4.03,Verified,Normal conversation text,0.37,1
+user_573,3,5,Verified,win click urgent,0.55,1
+user_574,5,1.27,Not Verified,Normal conversation text,0.47,1
+user_575,0,1.46,Not Verified,Normal conversation text,0.04,0
+user_576,6,2.32,Verified,Normal conversation text,0.34,1
+user_577,5,3.01,Verified,Normal conversation text,0.44,1
+user_578,3,1.99,Verified,Normal conversation text,0.51,1
+user_579,1,2.79,Verified,Normal conversation text,0,0
+user_580,8,3.11,Not Verified,,0.92,1
+user_581,5,1.32,Verified,Normal conversation text,0.07,1
+user_582,2,2.46,Verified,Normal conversation text,0.65,0
+user_583,0,1.95,Not Verified,Normal conversation text,0.16,0
+user_584,2,0.53,Verified,Normal conversation text,0.86,1
+user_585,9,4.83,Verified,Normal conversation text,0.69,0
+user_586,5,2.89,Verified,Normal conversation text,0.08,1
+user_587,9,4.28,Verified,Normal conversation text,0.18,1
+user_588,9,0.39,Not Verified,Normal conversation text,0.6,0
+user_589,1,0.4,Verified,click money urgent,0.71,1
+user_590,7,4.73,Not Verified,,0.98,1
+user_591,9,3.37,Verified,Normal conversation text,0.02,1
+user_592,3,4.87,Not Verified,Normal conversation text,0.3,1
+user_593,0,2.65,Not Verified,Normal conversation text,0.46,0
+user_594,1,3.01,Verified,Normal conversation text,0.19,0
+user_595,5,0.65,Verified,Normal conversation text,0.26,1
+user_596,5,1.92,Verified,,0.45,1
+user_597,6,4.91,Verified,Normal conversation text,0.22,1
+user_598,5,0.11,Verified,Normal conversation text,0.74,0
+user_599,2,2,Verified,,0.85,0
+user_600,1,2.45,Verified,,0.97,0
+user_601,1,2.09,Verified,free prize,0.74,1
+user_602,1,2.25,Verified,Normal conversation text,0.28,1
+user_603,5,1.83,Not Verified,Normal conversation text,0.47,0
+user_604,3,3.24,Verified,Normal conversation text,0.97,0
+user_605,1,0.1,Not Verified,free,0.91,0
+user_606,3,3.02,Verified,Normal conversation text,0.93,0
+user_607,1,4.9,Not Verified,,0.11,0
+user_608,8,3.65,Verified,Normal conversation text,0.58,0
+user_609,10,4.97,Not Verified,,0.96,0
+user_610,9,2.13,Verified,free money,0.95,0
+user_611,7,3.17,Not Verified,Normal conversation text,0.31,0
+user_612,3,0.85,Not Verified,urgent,0.36,0
+user_613,4,1.21,Not Verified,Normal conversation text,0.81,0
+user_614,9,3.16,Not Verified,Normal conversation text,0.78,1
+user_615,5,1.98,Not Verified,giveaway click,0.72,0
+user_616,4,0.83,Verified,Normal conversation text,0.54,0
+user_617,1,0.95,Not Verified,Normal conversation text,0.19,0
+user_618,5,1.62,Verified,Normal conversation text,0.43,1
+user_619,10,1.75,Verified,Normal conversation text,0.55,0
+user_620,7,1.38,Verified,Normal conversation text,0.84,0
+user_621,7,0.91,Not Verified,money urgent,0.8,1
+user_622,9,0.89,Not Verified,Normal conversation text,0.43,0
+user_623,9,0.19,Not Verified,Normal conversation text,0.54,1
+user_624,1,1.1,Verified,Normal conversation text,0.38,0
+user_625,9,1.46,Not Verified,Normal conversation text,0.48,0
+user_626,1,3.14,Verified,giveaway,0.45,1
+user_627,7,3.27,Not Verified,Normal conversation text,0.05,1
+user_628,0,1.35,Not Verified,urgent,0.26,0
+user_629,9,2.59,Verified,Normal conversation text,0.55,1
+user_630,5,2.73,Verified,Normal conversation text,0.03,0
+user_631,4,2.82,Not Verified,win click free,0.04,1
+user_632,8,4.27,Not Verified,Normal conversation text,0.11,1
+user_633,9,3.14,Verified,Normal conversation text,0.81,1
+user_634,8,1.17,Verified,,0.99,0
+user_635,9,2.07,Not Verified,Normal conversation text,0.54,0
+user_636,5,3.23,Verified,Normal conversation text,0.74,0
+user_637,0,0.73,Verified,Normal conversation text,0.77,1
+user_638,1,4.64,Not Verified,,0.46,0
+user_639,9,2.4,Verified,Normal conversation text,0.7,1
+user_640,6,3.28,Verified,Normal conversation text,0.62,0
+user_641,8,2.01,Not Verified,Normal conversation text,0.75,0
+user_642,5,3.03,Verified,urgent,0.62,0
+user_643,1,3.09,Not Verified,Normal conversation text,0.06,1
+user_644,7,4.21,Not Verified,,0.58,0
+user_645,3,3.26,Not Verified,Normal conversation text,0.73,0
+user_646,10,4.49,Verified,Normal conversation text,0.76,1
+user_647,8,3.59,Not Verified,Normal conversation text,0.89,1
+user_648,10,3.88,Verified,Normal conversation text,0.63,0
+user_649,4,3.71,Not Verified,Normal conversation text,0.18,1
+user_650,0,3.62,Not Verified,Normal conversation text,0.61,0
+user_651,4,3.9,Not Verified,Normal conversation text,0.26,1
+user_652,10,2.15,Not Verified,urgent,0.26,0
+user_653,5,4.28,Verified,Normal conversation text,0.36,0
+user_654,9,0.21,Not Verified,Normal conversation text,0.32,0
+user_655,10,3.78,Not Verified,urgent click prize,0.1,0
+user_656,10,2.4,Not Verified,Normal conversation text,0.43,0
+user_657,6,4.32,Verified,click prize,0.01,0
+user_658,2,3.64,Not Verified,Normal conversation text,0.38,1
+user_659,2,4.45,Not Verified,,0.03,0
+user_660,4,0.13,Not Verified,giveaway win urgent,0.31,0
+user_661,2,4.63,Verified,Normal conversation text,0.67,0
+user_662,8,4.61,Verified,giveaway urgent,0.07,0
+user_663,4,4.27,Verified,click,0.65,0
+user_664,0,1.83,Not Verified,Normal conversation text,0.3,0
+user_665,9,4.92,Verified,Normal conversation text,0.29,0
+user_666,10,3.12,Verified,Normal conversation text,0.88,1
+user_667,5,2.4,Not Verified,Normal conversation text,0.94,1
+user_668,4,3.86,Verified,Normal conversation text,0.13,0
+user_669,0,1.25,Verified,Normal conversation text,0.99,1
+user_670,5,4,Verified,Normal conversation text,0.86,1
+user_671,4,4.16,Not Verified,Normal conversation text,0.39,0
+user_672,1,2.62,Not Verified,money prize giveaway,0.99,1
+user_673,9,1.59,Not Verified,Normal conversation text,0.99,1
+user_674,7,3.73,Verified,Normal conversation text,0.36,0
+user_675,3,3.03,Not Verified,Normal conversation text,0.8,0
+user_676,6,1.72,Verified,free win prize,0.72,0
+user_677,3,2.14,Verified,Normal conversation text,0.97,1
+user_678,2,4.41,Verified,Normal conversation text,0.52,1
+user_679,8,0.47,Verified,Normal conversation text,0.13,0
+user_680,2,0.12,Verified,Normal conversation text,0.64,1
+user_681,1,4.52,Not Verified,,0.95,0
+user_682,4,0.27,Verified,Normal conversation text,0.8,1
+user_683,3,3.97,Verified,Normal conversation text,0.93,0
+user_684,3,4.52,Not Verified,win,0.31,1
+user_685,3,4.88,Not Verified,Normal conversation text,0.2,1
+user_686,1,1.13,Verified,Normal conversation text,0.46,0
+user_687,3,4.38,Verified,urgent,0.5,0
+user_688,1,4.06,Not Verified,Normal conversation text,0.83,0
+user_689,9,4.67,Verified,Normal conversation text,0.27,1
+user_690,2,2.21,Not Verified,Normal conversation text,0.72,1
+user_691,0,3.96,Not Verified,Normal conversation text,0.11,1
+user_692,6,2.52,Not Verified,Normal conversation text,0.83,0
+user_693,1,3.55,Verified,Normal conversation text,0.58,1
+user_694,4,2.28,Verified,click,0.16,1
+user_695,4,2.89,Not Verified,Normal conversation text,0.09,0
+user_696,9,2.63,Verified,Normal conversation text,0.13,0
+user_697,1,3.88,Not Verified,Normal conversation text,0.8,1
+user_698,0,4.34,Not Verified,urgent win prize,0.81,0
+user_699,6,4.17,Not Verified,Normal conversation text,0.89,0
+user_700,5,3.37,Verified,money click urgent,0.07,1
+user_701,7,3.89,Not Verified,Normal conversation text,0.73,1
+user_702,1,4.25,Not Verified,Normal conversation text,0.66,1
+user_703,7,2.56,Verified,Normal conversation text,0.79,1
+user_704,3,1.58,Not Verified,Normal conversation text,0.44,0
+user_705,6,4.89,Not Verified,Normal conversation text,0.04,1
+user_706,9,0.84,Not Verified,Normal conversation text,0.29,0
+user_707,2,1.31,Verified,Normal conversation text,0.19,0
+user_708,10,4.27,Verified,Normal conversation text,0.13,1
+user_709,4,2.19,Verified,Normal conversation text,0.97,1
+user_710,4,2.54,Verified,Normal conversation text,0.44,0
+user_711,1,3.93,Verified,Normal conversation text,0.62,1
+user_712,9,2.55,Verified,urgent prize,0.37,0
+user_713,6,1.52,Not Verified,Normal conversation text,0.07,0
+user_714,8,0.84,Not Verified,giveaway,0.08,0
+user_715,5,1.21,Verified,,0.37,0
+user_716,1,0.14,Not Verified,Normal conversation text,0.71,0
+user_717,5,3.76,Verified,Normal conversation text,0.32,1
+user_718,5,1.52,Not Verified,win giveaway free,0.74,1
+user_719,6,4.8,Verified,,0.08,0
+user_720,4,2.98,Not Verified,urgent win click,0.8,0
+user_721,5,2.44,Verified,Normal conversation text,0.41,0
+user_722,1,4.76,Not Verified,Normal conversation text,0.28,0
+user_723,2,3.03,Not Verified,Normal conversation text,0.98,1
+user_724,10,2.69,Verified,Normal conversation text,0.48,1
+user_725,4,4.31,Verified,,0.37,1
+user_726,1,2.61,Not Verified,urgent win,0.96,1
+user_727,5,2.21,Verified,money win click,0.6,0
+user_728,6,3.98,Not Verified,Normal conversation text,0.06,1
+user_729,7,1.08,Verified,Normal conversation text,0.88,0
+user_730,10,3.72,Verified,money,0.07,0
+user_731,1,0.77,Not Verified,Normal conversation text,0.18,1
+user_732,9,4.86,Not Verified,Normal conversation text,0.93,0
+user_733,1,4.53,Verified,Normal conversation text,0.31,1
+user_734,8,3.69,Not Verified,Normal conversation text,0.01,1
+user_735,4,0.27,Verified,click urgent free,0.23,1
+user_736,1,2.86,Not Verified,Normal conversation text,0.31,1
+user_737,9,0.49,Verified,Normal conversation text,0.34,1
+user_738,7,2.59,Not Verified,giveaway,0.96,1
+user_739,3,2.2,Not Verified,click,0.87,1
+user_740,6,3.46,Verified,Normal conversation text,0.99,1
+user_741,1,4.73,Not Verified,Normal conversation text,0.1,1
+user_742,2,2.84,Verified,Normal conversation text,0.2,0
+user_743,0,1.62,Not Verified,money,0.26,0
+user_744,4,2.9,Not Verified,urgent money,0.1,0
+user_745,8,2.51,Verified,Normal conversation text,0.12,1
+user_746,1,3.98,Verified,win prize,0.43,0
+user_747,9,1.91,Verified,Normal conversation text,0.9,0
+user_748,10,3.21,Not Verified,free,0.19,1
+user_749,6,4.95,Not Verified,money click,0.59,1
+user_750,2,3.37,Verified,Normal conversation text,0.91,1
+user_751,10,1.9,Verified,Normal conversation text,0.69,1
+user_752,9,2.82,Not Verified,Normal conversation text,0.27,0
+user_753,9,1.2,Not Verified,Normal conversation text,0.78,0
+user_754,1,0.98,Not Verified,Normal conversation text,0.8,0
+user_755,4,1.45,Not Verified,Normal conversation text,0.32,0
+user_756,8,0.43,Verified,Normal conversation text,0.87,1
+user_757,8,2.22,Verified,Normal conversation text,0.86,1
+user_758,4,4.88,Not Verified,money win urgent,0.17,0
+user_759,10,1.73,Not Verified,Normal conversation text,0.58,1
+user_760,7,1.75,Verified,Normal conversation text,0.76,1
+user_761,4,1.5,Verified,Normal conversation text,0.48,1
+user_762,10,4.15,Verified,win,0.17,1
+user_763,10,2.09,Verified,Normal conversation text,0.66,0
+user_764,4,3.02,Verified,Normal conversation text,0.8,1
+user_765,2,0.21,Verified,urgent,0.94,1
+user_766,2,2.11,Verified,win giveaway prize,0.81,0
+user_767,0,2.92,Not Verified,Normal conversation text,0.25,1
+user_768,2,3,Verified,Normal conversation text,0.45,0
+user_769,6,0.62,Not Verified,Normal conversation text,0.78,1
+user_770,0,0.45,Verified,money,0.64,0
+user_771,0,1.25,Verified,Normal conversation text,0.97,0
+user_772,7,4.06,Not Verified,Normal conversation text,0.97,1
+user_773,10,2.44,Verified,Normal conversation text,0.03,0
+user_774,5,0.32,Verified,giveaway click prize,0.87,1
+user_775,5,3.64,Not Verified,Normal conversation text,0.81,1
+user_776,1,1.74,Verified,Normal conversation text,0.53,0
+user_777,5,3.22,Not Verified,money free click,0.39,0
+user_778,8,3.18,Not Verified,Normal conversation text,0.99,0
+user_779,6,4.5,Verified,Normal conversation text,0.53,1
+user_780,3,1.74,Verified,Normal conversation text,0.55,0
+user_781,5,0.55,Not Verified,Normal conversation text,0.24,1
+user_782,6,2.41,Verified,urgent money,0.48,0
+user_783,8,4.22,Not Verified,urgent win,0.73,1
+user_784,8,1.33,Not Verified,Normal conversation text,0.78,1
+user_785,1,4.16,Not Verified,,0.17,1
+user_786,3,1.18,Not Verified,Normal conversation text,0.35,0
+user_787,4,0.43,Verified,giveaway urgent,0.88,1
+user_788,8,2.79,Verified,win prize,0.5,1
+user_789,5,4.97,Verified,free giveaway money,0.09,1
+user_790,1,1,Not Verified,free,0.07,0
+user_791,7,2.03,Not Verified,Normal conversation text,0.54,0
+user_792,3,4.93,Not Verified,Normal conversation text,0.65,0
+user_793,9,1.51,Verified,win,0.61,1
+user_794,6,0.79,Not Verified,,0.64,1
+user_795,7,4.2,Verified,Normal conversation text,0.81,1
+user_796,2,2.29,Verified,Normal conversation text,0.88,1
+user_797,2,2.16,Verified,Normal conversation text,0.61,0
+user_798,9,3.48,Verified,Normal conversation text,0.16,1
+user_799,1,3.36,Not Verified,click,0.37,0
+user_800,8,3.2,Not Verified,Normal conversation text,0.16,1
+user_801,6,4.54,Verified,Normal conversation text,0.51,0
+user_802,3,2.04,Verified,Normal conversation text,0.31,1
+user_803,2,2.53,Verified,Normal conversation text,0.22,1
+user_804,3,3.55,Verified,Normal conversation text,0.3,0
+user_805,10,4.19,Not Verified,Normal conversation text,0.81,0
+user_806,1,1.41,Verified,Normal conversation text,0.49,1
+user_807,8,3.47,Not Verified,Normal conversation text,0.47,0
+user_808,7,4.61,Verified,Normal conversation text,0.95,1
+user_809,10,1.66,Not Verified,Normal conversation text,0.23,0
+user_810,8,0.81,Not Verified,click free,0.33,0
+user_811,1,0.56,Not Verified,,0.47,0
+user_812,2,1.93,Not Verified,urgent money click,0,0
+user_813,1,2.53,Verified,giveaway prize,0.18,1
+user_814,2,3.77,Verified,Normal conversation text,0.95,0
+user_815,8,3.34,Verified,Normal conversation text,0.04,1
+user_816,1,0.79,Not Verified,Normal conversation text,0.3,0
+user_817,1,1.3,Not Verified,free money,0.67,1
+user_818,5,1.18,Verified,Normal conversation text,0.31,1
+user_819,2,0.2,Verified,Normal conversation text,0.87,0
+user_820,6,1.03,Verified,Normal conversation text,0.59,0
+user_821,2,2.56,Verified,Normal conversation text,0.78,0
+user_822,6,2.69,Verified,free,0.07,0
+user_823,1,1.89,Verified,click free,0.4,0
+user_824,8,4.79,Verified,Normal conversation text,0.82,0
+user_825,0,2.43,Not Verified,Normal conversation text,0.14,0
+user_826,6,1.91,Not Verified,Normal conversation text,0.25,1
+user_827,4,0.61,Verified,Normal conversation text,0.11,0
+user_828,2,4.12,Verified,Normal conversation text,0.53,1
+user_829,10,1.64,Not Verified,Normal conversation text,0.97,1
+user_830,10,3.01,Not Verified,Normal conversation text,0.35,1
+user_831,4,2.04,Verified,Normal conversation text,0.31,0
+user_832,2,1.9,Verified,,0.43,0
+user_833,2,1.78,Verified,Normal conversation text,0.79,0
+user_834,7,2.34,Not Verified,win prize,0.87,1
+user_835,8,1.34,Verified,money giveaway,0.58,1
+user_836,9,3.8,Not Verified,,0.03,0
+user_837,10,2.87,Not Verified,Normal conversation text,0.69,0
+user_838,9,1.79,Verified,Normal conversation text,0.07,0
+user_839,1,0.55,Not Verified,Normal conversation text,0.51,0
+user_840,7,1.58,Not Verified,Normal conversation text,0.45,1
+user_841,3,0.19,Not Verified,Normal conversation text,0.5,1
+user_842,1,0.43,Verified,click free,0.16,1
+user_843,3,4.35,Verified,,0.74,0
+user_844,0,1.61,Not Verified,money click,0.46,1
+user_845,2,4.34,Not Verified,money,0.64,0
+user_846,0,3.82,Verified,Normal conversation text,0.67,0
+user_847,9,3.76,Verified,Normal conversation text,0.7,1
+user_848,2,2.2,Verified,Normal conversation text,0.05,0
+user_849,7,0.16,Not Verified,,0.44,0
+user_850,9,4.37,Verified,prize win free,0.71,1
+user_851,5,0.32,Verified,Normal conversation text,0.43,0
+user_852,2,4.09,Not Verified,Normal conversation text,0,1
+user_853,8,2.68,Verified,Normal conversation text,0,0
+user_854,10,4.2,Verified,Normal conversation text,0.9,1
+user_855,8,0.36,Verified,Normal conversation text,0.32,1
+user_856,8,2.99,Not Verified,Normal conversation text,0.34,1
+user_857,6,2.21,Verified,Normal conversation text,0.07,1
+user_858,9,3.51,Verified,Normal conversation text,0.29,0
+user_859,7,2.7,Verified,Normal conversation text,0.59,0
+user_860,0,3.26,Verified,,0.76,0
+user_861,7,3.95,Verified,Normal conversation text,0.75,1
+user_862,5,2.05,Not Verified,Normal conversation text,0.72,1
+user_863,9,3.41,Not Verified,Normal conversation text,0.01,1
+user_864,7,2.75,Verified,money urgent,0.41,1
+user_865,0,3.87,Verified,Normal conversation text,0.27,1
+user_866,0,2.49,Not Verified,Normal conversation text,0.54,1
+user_867,2,0.39,Not Verified,,0.98,1
+user_868,7,3.02,Verified,Normal conversation text,0.31,0
+user_869,3,2.69,Verified,Normal conversation text,0.78,0
+user_870,2,1.76,Verified,Normal conversation text,0.39,0
+user_871,4,2.52,Not Verified,,0.92,0
+user_872,7,4.31,Verified,Normal conversation text,0.66,0
+user_873,2,4.62,Verified,Normal conversation text,0.25,1
+user_874,9,3.17,Verified,money,0.75,0
+user_875,6,0.17,Verified,Normal conversation text,0.11,0
+user_876,8,4.11,Not Verified,,0.53,1
+user_877,0,2.3,Not Verified,Normal conversation text,0.47,0
+user_878,0,1.44,Verified,Normal conversation text,0.44,1
+user_879,7,0.17,Verified,Normal conversation text,0.57,1
+user_880,1,0.61,Verified,urgent prize free,0.74,0
+user_881,0,1.31,Verified,Normal conversation text,0.41,1
+user_882,5,1.8,Not Verified,Normal conversation text,0.39,0
+user_883,8,4.2,Not Verified,Normal conversation text,0.61,1
+user_884,5,2.94,Not Verified,Normal conversation text,0.8,0
+user_885,5,3.25,Verified,Normal conversation text,0.96,0
+user_886,8,3.81,Not Verified,Normal conversation text,0.33,1
+user_887,2,4.41,Not Verified,Normal conversation text,0.91,1
+user_888,10,2.77,Not Verified,Normal conversation text,0.01,1
+user_889,8,2.56,Verified,giveaway click,0.07,0
+user_890,4,4.9,Verified,win,0.31,1
+user_891,5,1.62,Not Verified,free,0.96,1
+user_892,4,4.31,Not Verified,free,0.24,1
+user_893,9,4.2,Verified,Normal conversation text,0.75,0
+user_894,7,1.82,Verified,Normal conversation text,0.6,1
+user_895,0,3.7,Not Verified,Normal conversation text,0.88,1
+user_896,8,4.89,Verified,giveaway click,0.77,1
+user_897,3,4.55,Not Verified,Normal conversation text,0.26,1
+user_898,9,1.32,Not Verified,,0.22,0
+user_899,6,2.82,Verified,Normal conversation text,0.09,1
+user_900,4,0.13,Not Verified,Normal conversation text,0.73,0
+user_901,9,3.03,Verified,Normal conversation text,0.4,0
+user_902,4,1.17,Not Verified,Normal conversation text,0.25,0
+user_903,10,1.31,Verified,Normal conversation text,0.69,1
+user_904,3,0.98,Not Verified,Normal conversation text,0.44,1
+user_905,2,2.58,Not Verified,Normal conversation text,0.29,0
+user_906,6,1.2,Verified,Normal conversation text,0.03,1
+user_907,1,0.73,Not Verified,Normal conversation text,0.53,1
+user_908,10,0.25,Verified,Normal conversation text,0.58,1
+user_909,4,4.56,Not Verified,Normal conversation text,0.26,0
+user_910,9,0.53,Verified,Normal conversation text,0.79,0
+user_911,7,2.57,Not Verified,,0.86,0
+user_912,1,1.55,Not Verified,,0.22,0
+user_913,8,0.11,Not Verified,click,0.22,1
+user_914,5,1.86,Not Verified,Normal conversation text,0.39,0
+user_915,7,2.99,Not Verified,Normal conversation text,0.57,1
+user_916,0,2.42,Not Verified,Normal conversation text,0.92,0
+user_917,8,0.17,Not Verified,money free,0.55,0
+user_918,5,2.32,Not Verified,Normal conversation text,0.71,1
+user_919,4,1.17,Not Verified,Normal conversation text,0.51,0
+user_920,3,1.62,Not Verified,Normal conversation text,0.55,0
+user_921,5,2.32,Not Verified,Normal conversation text,0.63,1
+user_922,3,1.13,Verified,Normal conversation text,0.55,1
+user_923,0,3.92,Verified,,0.39,1
+user_924,3,2.31,Verified,Normal conversation text,0.45,1
+user_925,8,2.63,Verified,Normal conversation text,0.27,1
+user_926,4,0.2,Verified,Normal conversation text,0.32,1
+user_927,8,3.6,Verified,Normal conversation text,0.03,0
+user_928,3,4.91,Not Verified,Normal conversation text,0.52,1
+user_929,6,3.27,Not Verified,Normal conversation text,0.48,1
+user_930,6,1.28,Verified,Normal conversation text,0.92,0
+user_931,2,4.44,Verified,giveaway urgent,0.58,0
+user_932,1,1.15,Not Verified,free,0.3,1
+user_933,10,4,Verified,Normal conversation text,0.74,0
+user_934,0,4.9,Not Verified,Normal conversation text,0.46,1
+user_935,8,2.53,Verified,Normal conversation text,0.85,1
+user_936,4,2.8,Verified,Normal conversation text,0.86,0
+user_937,6,3.21,Verified,Normal conversation text,0.28,0
+user_938,5,2.39,Verified,Normal conversation text,0.97,1
+user_939,7,4.69,Verified,Normal conversation text,0.69,1
+user_940,1,0.16,Verified,Normal conversation text,0.88,1
+user_941,8,3.68,Not Verified,Normal conversation text,0.43,1
+user_942,3,3.61,Verified,Normal conversation text,0.84,0
+user_943,0,4.65,Verified,prize win urgent,0.32,0
+user_944,10,0.47,Verified,Normal conversation text,0.5,1
+user_945,9,3.12,Verified,,0.09,1
+user_946,5,3.58,Verified,Normal conversation text,0.81,1
+user_947,9,0.19,Verified,Normal conversation text,0.92,0
+user_948,7,1.51,Not Verified,Normal conversation text,0.9,1
+user_949,2,2.68,Verified,Normal conversation text,0.02,1
+user_950,1,1.38,Not Verified,Normal conversation text,0.08,1
+user_951,1,0.58,Verified,Normal conversation text,0.44,1
+user_952,0,0.88,Not Verified,Normal conversation text,0.56,1
+user_953,9,1.25,Verified,Normal conversation text,0.88,1
+user_954,2,2.37,Not Verified,Normal conversation text,0.64,0
+user_955,5,1,Not Verified,Normal conversation text,0.94,1
+user_956,10,1.2,Verified,urgent,0,0
+user_957,6,4.85,Not Verified,Normal conversation text,0.41,1
+user_958,5,2.88,Verified,Normal conversation text,0.06,0
+user_959,4,0.91,Not Verified,click,0.61,1
+user_960,0,0.75,Not Verified,prize win giveaway,0.21,0
+user_961,2,2.52,Verified,Normal conversation text,0.59,0
+user_962,8,4.79,Verified,Normal conversation text,0.81,0
+user_963,7,0.79,Verified,free click,0.53,0
+user_964,1,3.15,Verified,free prize giveaway,0.2,1
+user_965,10,4.87,Verified,,0.59,0
+user_966,2,2.69,Not Verified,,0.37,0
+user_967,1,4.34,Not Verified,Normal conversation text,0.41,1
+user_968,1,1.41,Not Verified,Normal conversation text,0.28,1
+user_969,9,1.34,Not Verified,Normal conversation text,0.48,0
+user_970,6,3.58,Verified,click,0.12,0
+user_971,0,2.62,Not Verified,giveaway free prize,0.51,0
+user_972,8,4.61,Verified,Normal conversation text,1,0
+user_973,1,0.52,Not Verified,Normal conversation text,0.86,1
+user_974,8,0.38,Not Verified,Normal conversation text,0.91,0
+user_975,5,4.26,Verified,Normal conversation text,0.73,0
+user_976,2,3.15,Verified,Normal conversation text,0.04,1
+user_977,10,1.51,Not Verified,Normal conversation text,0.11,0
+user_978,3,4.64,Not Verified,Normal conversation text,0.1,1
+user_979,1,0.71,Verified,urgent prize,0.19,1
+user_980,1,0.51,Verified,Normal conversation text,0.61,1
+user_981,4,4.42,Not Verified,,0.78,0
+user_982,3,3.91,Verified,click money,0.55,1
+user_983,0,4.3,Verified,Normal conversation text,0.58,0
+user_984,5,2.66,Not Verified,Normal conversation text,0.09,0
+user_985,10,4.13,Verified,Normal conversation text,0.78,1
+user_986,1,1.41,Verified,Normal conversation text,0.9,1
+user_987,7,4.03,Not Verified,Normal conversation text,0.34,1
+user_988,4,4.46,Verified,Normal conversation text,0.7,0
+user_989,4,4.12,Verified,Normal conversation text,0.95,0
+user_990,2,0.52,Not Verified,Normal conversation text,0.14,1
+user_991,4,1.53,Not Verified,Normal conversation text,0.69,1
+user_992,9,1.77,Not Verified,Normal conversation text,0.73,0
+user_993,10,1.44,Not Verified,Normal conversation text,0.22,0
+user_994,3,3.11,Not Verified,Normal conversation text,0.12,0
+user_995,9,4.03,Not Verified,Normal conversation text,0.31,1
+user_996,3,1.33,Verified,,0.17,1
+user_997,3,3.29,Not Verified,win money,0.21,0
+user_998,6,1.24,Not Verified,Normal conversation text,0.2,1
+user_999,10,0.24,Not Verified,giveaway win click,0.22,0
+user_1000,2,1.06,Verified,Normal conversation text,0.63,0

@@ -1,0 +1,21 @@
+username,report_count,follower_following_ratio,verification_status,engagement_pattern,label
+test_user_1,9,2.88,Not Verified,0.56,0
+test_user_2,4,3.37,Verified,0.89,0
+test_user_3,3,1.46,Not Verified,0.03,0
+test_user_4,8,1.93,Not Verified,0.28,1
+test_user_5,1,4.85,Verified,0.54,0
+test_user_6,6,4.53,Not Verified,0.52,1
+test_user_7,1,1.53,Verified,0.4,0
+test_user_8,8,1.38,Verified,0.8,0
+test_user_9,4,4.4,Verified,0.46,0
+test_user_10,9,4.28,Not Verified,0.66,1
+test_user_11,2,4.99,Not Verified,0.34,0
+test_user_12,6,3.16,Verified,0.09,1
+test_user_13,9,2.45,Not Verified,0.38,0
+test_user_14,9,1.75,Verified,0.42,0
+test_user_15,2,4.92,Not Verified,0.59,0
+test_user_16,4,4.46,Verified,0.28,0
+test_user_17,10,4.51,Not Verified,0.69,1
+test_user_18,3,4.82,Verified,0.33,0
+test_user_19,10,0.59,Not Verified,0.63,0
+test_user_20,10,0.61,Not Verified,0.71,0
