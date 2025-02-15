@@ -46,7 +46,7 @@ Upload "testing_dataset.csv" to verify that the model correctly flags fake accou
 
 ## 🌟 Future Improvements
 - Improve dataset quality by collecting real-world data.
-- Optimize the ML model to achieve "higher than 55% accuracy".
+- Optimize the ML model to achieve "higher than 60% accuracy".
 - Experiment with **advanced models like transformers (BERT/GPT)** for better NLP analysis.
 - Develop a "mobile-friendly version" of the UI
 
